@@ -45,3 +45,15 @@ body {
     color: #4d4e53;
     display: block;
   }
+  #main-doc{
+      position: absolute;
+      margin-left:320px;
+  }
+
+  #main-doc header{
+      font-size:2em;
+      color: black;
+      text-align: left;
+      margin:0;
+      padding: 20px;
+  }
