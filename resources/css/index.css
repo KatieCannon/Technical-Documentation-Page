@@ -68,4 +68,5 @@ body {
       border-radius: 5px;
       margin: 10px;
       line-height: 2em;
+      counter-reset: linenumber;
   }
