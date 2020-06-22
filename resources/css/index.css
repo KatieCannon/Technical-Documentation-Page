@@ -71,3 +71,36 @@ body {
       line-height: 2em;
       counter-reset: linenumber;
   }
+
+  @media only screen and (max-width:1240px){
+    #navbar{
+        font-size: 2em;
+        width:100%;
+        position: fixed;
+        top:0;
+        left:0;
+        background-color: white;
+       height:500px;
+        z-index: 1;
+    }
+
+    nav header{
+        font-size: 3em;
+        margin:0.5em;
+    }
+    #navbar ul{
+        height: 340px;
+        overflow: scroll;
+        border: 1px solid;
+        margin:0;
+    }
+        
+    #main-doc{
+      margin-top:510px;
+      margin-left: 0;
+      font-size: 2em;
+      line-height: 1.5em;
+    }
+   
+       
+}
