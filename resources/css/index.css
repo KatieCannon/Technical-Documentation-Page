@@ -47,6 +47,7 @@ body {
       position: absolute;
       margin-left:320px;
       padding: 20px;
+      margin-bottom: 150px;
   }
 
   #main-doc header{
@@ -54,12 +55,12 @@ body {
       color: black;
       text-align: left;
       margin:0;
-      padding: 20px;
+      padding: 10px;
   }
 
   section article{
       margin: 30px;
-      font-size:1em;
+      font-size:1em;   
   }
   code{
       background-color:#f7f7f7;
